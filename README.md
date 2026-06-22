@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi I'm Jetross!<br><br>💻 Full Stack Web Developer specialized on developing AI related web apps<br>💼 4+ years of full-stack web development experience building scalable applications with modern frameworks <br>🧑 23 year old, 4th year BSIT student at Caraga State University<br>👷 Currently working on School Projects<br>🌱 Currently learning more backend stuff<br>      <br><br><br>
+👋 Hi I'm Jetross!<br><br>💻 Full Stack Web Developer specialized on developing AI related web apps<br>💼 4+ years of full-stack web development experience building scalable applications with modern frameworks <br>🧑 23 year old, BSIT Graduate<br>👷 Currently working on a University Project<br>🌱 Currently learning AI Engineering<br>      <br><br><br>
 
 
 # 💻 Tech Stack:
